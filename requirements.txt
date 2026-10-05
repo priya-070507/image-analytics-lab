@@ -1,0 +1,13 @@
+streamlit>=1.50,<1.65
+
+numpy==1.26.4
+opencv-python==4.10.0.84
+pillow==10.4.0
+matplotlib==3.9.2
+pandas==2.2.3
+scikit-learn==1.5.2
+
+deepface==0.0.93
+tensorflow==2.21.0
+tf-keras==2.21.0
+keras-facenet==0.3.2
