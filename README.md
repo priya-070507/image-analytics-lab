@@ -6,7 +6,7 @@ An interactive **Image & Video Analytics laboratory** built with **Streamlit**, 
 
 ## 🚀 Live Application
 
-> **Streamlit App:** Add your deployed Streamlit URL here
+> **Streamlit App:https://image-analytics-lab-qgbzputfcewxfkw6zcmm7t.streamlit.app/
 
 ## 📌 About
 
