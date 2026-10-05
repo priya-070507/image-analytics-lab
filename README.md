@@ -233,18 +233,7 @@ This is an educational image-analysis application. Avoid uploading sensitive or 
 - Downloadable analysis reports
 - Algorithm performance comparison
 
-## 📷 Screenshots
 
-Suggested screenshots after deployment:
-
-```text
-screenshots/
-├── dashboard.png
-├── template_matching.png
-├── viola_jones.png
-├── deepface.png
-└── facenet.png
-```
 
 ## 👩‍💻 Author
 
